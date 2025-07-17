@@ -1,0 +1,3 @@
+- https://github.com/thanhkaist/CCFDM1 : My work was inspired by the original implementation of the Authors 
+- https://github.com/denisyarats/pytorch_sac_ae 
+- https://github.com/MishaLaskin/curl : for the CURL part i have took this code and implemented in my code as accomodate my task.

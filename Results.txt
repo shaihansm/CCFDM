@@ -1,0 +1,31 @@
+| eval | S: 0 | ER: 0.6958
+| train | E: 1 | S: 1000 | D: 0.0 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| eval | S: 1000 | ER: 0.6792
+| train | E: 0 | S: 1000 | D: 236.9 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 2 | S: 2000 | D: 0.0 s | R: 2.8455 | BR: 0.0032 | A_LOSS: -1.2847 | CR_LOSS: 0.4793 | CU_LOSS: 2.9239
+| eval | S: 2000 | ER: 0.1623
+| train | E: 0 | S: 2000 | D: 1329.5 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 3 | S: 3000 | D: 0.0 s | R: 4.1158 | BR: 0.0031 | A_LOSS: -3.0340 | CR_LOSS: 0.0336 | CU_LOSS: 1.2122
+| eval | S: 3000 | ER: 0.1184
+| train | E: 0 | S: 3000 | D: 1478.8 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 4 | S: 4000 | D: 0.0 s | R: 2.4560 | BR: 0.0033 | A_LOSS: -4.7277 | CR_LOSS: 0.0107 | CU_LOSS: 0.7713
+| eval | S: 4000 | ER: 0.1075
+| train | E: 0 | S: 4000 | D: 1459.6 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 5 | S: 5000 | D: 0.0 s | R: 2.3240 | BR: 0.0035 | A_LOSS: -6.3099 | CR_LOSS: 0.0135 | CU_LOSS: 0.6493
+| eval | S: 5000 | ER: 0.1384
+| train | E: 0 | S: 5000 | D: 1403.3 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 6 | S: 6000 | D: 0.0 s | R: 3.6527 | BR: 0.0032 | A_LOSS: -7.7729 | CR_LOSS: 0.0089 | CU_LOSS: 0.6056
+| eval | S: 6000 | ER: 0.2556
+| train | E: 0 | S: 6000 | D: 1616.1 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 7 | S: 7000 | D: 0.0 s | R: 2.8941 | BR: 0.0032 | A_LOSS: -9.0815 | CR_LOSS: 0.0114 | CU_LOSS: 0.5117
+| eval | S: 7000 | ER: 0.3116
+| train | E: 0 | S: 7000 | D: 2561.1 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 8 | S: 8000 | D: 0.0 s | R: 4.9510 | BR: 0.0041 | A_LOSS: -10.2830 | CR_LOSS: 0.0122 | CU_LOSS: 0.5119
+| eval | S: 8000 | ER: 0.1923
+| train | E: 0 | S: 8000 | D: 1593.8 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 9 | S: 9000 | D: 0.0 s | R: 4.7415 | BR: 0.0041 | A_LOSS: -11.3622 | CR_LOSS: 0.0109 | CU_LOSS: 0.5597
+| eval | S: 9000 | ER: 0.2656
+| train | E: 0 | S: 9000 | D: 1946.1 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
+| train | E: 10 | S: 10000 | D: 0.0 s | R: 2.5611 | BR: 0.0028 | A_LOSS: -12.3149 | CR_LOSS: 0.0103 | CU_LOSS: 0.3916
+| eval | S: 10000 | ER: 0.3399
+| train | E: 0 | S: 10000 | D: 2257.1 s | R: 0.0000 | BR: 0.0000 | A_LOSS: 0.0000 | CR_LOSS: 0.0000 | CU_LOSS: 0.0000
